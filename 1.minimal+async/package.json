@@ -8,7 +8,7 @@
   },
   "keywords": [
     "Koa2",
-    "async"
+    "async/await"
   ],
   "author": "Scott Chen",
   "license": "MIT",
