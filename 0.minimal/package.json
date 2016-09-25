@@ -1,0 +1,18 @@
+{
+  "name": "0.minimal",
+  "version": "1.0.0",
+  "description": "Minimal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Koa2",
+    "minimal"
+  ],
+  "author": "Scott Chen",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.0.0-alpha.7"
+  }
+}
