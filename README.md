@@ -6,7 +6,7 @@ This Koa2 Starter helps to kick off a Koa2 project from scratch without having t
 
 # Available Settings
 
-0. [Minimal dependeycn](https://github.com/rightson/koa2-starter/tree/master/0.minimal)
+0. [Minimal](https://github.com/rightson/koa2-starter/tree/master/0.minimal)
 
 1. [Async/await](https://github.com/rightson/koa2-starter/tree/master/1.async)
 
